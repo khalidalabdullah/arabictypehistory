@@ -1,0 +1,30 @@
+{
+ "data":
+  [
+    {"img": "amiri.png", "scale": 10, "top": 2, "left": 2},
+	{"img": "amiri-diacritics.jpg", "scale": 10, "top": 2, "left": 2},
+    {"img": "ariel.png", "scale": 10, "top": 4, "left": 4},
+    {"img": "asvcodar.png", "scale": 10, "top": 6, "left": 6},
+    {"img": "bostan.png", "scale": 10, "top": 8, "left": 8},
+	{"img": "ge-ss-2.png", "scale": 10, "top": 10, "left": 10},
+	{"img": "lotus.png", "scale": 10, "top": 2, "left": 2},
+	{"img": "muna.png", "scale": 10, "top": 12, "left": 12},
+	{"img": "muna-amiri.png", "scale": 10, "top": 16, "left": 16},
+	{"img": "uthmanic.png", "scale": 10, "top": 22, "left": 22},
+	{"img": "yakout.png", "scale": 10, "top": 24, "left": 24},
+	{"img": "zawra1869.png", "scale": 10, "top": 26, "left": 26},
+	{"img": "banyeh.png", "scale": 10, "top": 28, "left": 28},
+	{"img": "ruqaa.png", "scale": 10, "top": 30, "left": 30},
+	{"img": "muteferrika.png", "scale": 10, "top": 32, "left": 32},
+	{"img": "adobearabic.png", "scale": 10, "top": 34, "left": 34},
+	{"img": "mushafamiri.png", "scale": 10, "top": 36, "left": 36},
+	{"img": "calibri.png", "scale": 10, "top": 38, "left": 38},
+	{"img": "1880.png", "scale": 10, "top": 42, "left": 42},
+	{"img": "1895.png", "scale": 10, "top": 44, "left": 44},
+	{"img": "1896.png", "scale": 10, "top": 46, "left": 46},
+	{"img": "1828.png", "scale": 10, "top": -46, "left": -46},
+	{"img": "tahoma.png", "scale": 10, "top": -44, "left": -44},
+	{"img": "yakout-mariam.png", "scale": 10, "top": -42, "left": -42},
+	{"img": "europeanarabic.png", "scale": 10, "top": -40, "left": -40}
+  ]
+}
