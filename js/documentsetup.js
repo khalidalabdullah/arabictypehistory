@@ -1,6 +1,7 @@
 // Art document object setup
 // Khalid Alabdullah
 // 25 May 2018
+// testing for github, 23 Nov 2019
 
 (function() {
     // Window resize response
