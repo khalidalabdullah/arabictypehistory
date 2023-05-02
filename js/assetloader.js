@@ -15,7 +15,7 @@ art.assetLoader = function () {
 		}).done(function(data){
 			var list = JSON.parse(data);
 			var path = "assets/samples/";
-			var imageWidth = view.size.width * art.settings.sizeScale;
+			var imageWidth = view.size.width * 0.3;
 			$.each(list.data, function(idx, item){
 				var raster = new Raster(path + item.img);
 				raster.onLoad = function () {
